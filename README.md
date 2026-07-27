@@ -6,6 +6,14 @@
 
 ---
 
+## 🌐 Live Demo
+
+**Render Deployment:** https://skillbridge-ai-a3n7.onrender.com
+
+> Experience SkillBridge AI live by visiting the link above.
+
+---
+
 ## 🎯 The Problem & Our Solution
 
 Many students struggle to know whether they are ready for competitive internships and entry-level jobs. They don't know which technical or soft skills they are missing, how their resume parses through ATS (Applicant Tracking Systems), or how to formulate high-impact achievement bullet points.
@@ -140,12 +148,16 @@ Because the build script outputs a single CommonJS server bundle (`dist/server.c
 - Set your environment variable: `GEMINI_API_KEY=your_key`
 - Start command: `npm start`
 
-#### Option B: Vercel Deployment
-To deploy on Vercel:
-1. Connect your GitHub repository to Vercel.
-2. In the Project Settings, add your `GEMINI_API_KEY` under **Environment Variables**.
-3. Vercel will automatically build the application and serve the frontend and serverless API routes.
+#### Option B: #### Render Deployment
 
+SkillBridge AI is successfully deployed on **Render**.
+
+**Live Application:** https://skillbridge-ai-a3n7.onrender.com
+
+Deployment Steps:
+1. Push the project to a public GitHub repository.
+2. Connect the repository to Render.
+3. Add the required environment variable:
 ---
 
 ## 📂 Project Structure
