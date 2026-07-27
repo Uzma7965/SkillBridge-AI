@@ -195,7 +195,25 @@ skillbridge-ai/
         ├── CareerTipsView.tsx # Mentorship & Cold Outreach Scripts
         └── HistoryView.tsx    # Archive & JSON Report Exporter
 ```
+---
 
+# 📸 Screenshots
+
+## 🏠 Home Page
+
+![Home Page](Home.PNG)
+
+## 📊 Dashboard
+
+![Dashboard](Dashboard.PNG)
+
+## 📄 Resume Upload
+
+![Resume Upload](Resume.PNG)
+
+## 🤖 AI Analysis
+
+![AI Analysis](Ai%20analysis.PNG)
 ---
 
 ## 🤝 Contributing
